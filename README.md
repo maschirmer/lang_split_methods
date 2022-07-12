@@ -20,5 +20,7 @@ Methoden für language detection:
     - einige andere libraries sind nervig vong dependencies her ...
 - langid
 
+Auf dem Cluster gerechnet, nicht parallelisiert!
+
 
 Resultate als plots siehe graphs ordner!
