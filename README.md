@@ -21,4 +21,4 @@ Methoden für language detection:
 - langid
 
 
-Resultate als graphen siehe graphs ordner!
+Resultate als plots siehe graphs ordner!
