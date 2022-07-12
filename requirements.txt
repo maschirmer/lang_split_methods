@@ -1,0 +1,7 @@
+spacy
+stanza
+textblob
+langid
+langdetect
+nltk
+pandas
